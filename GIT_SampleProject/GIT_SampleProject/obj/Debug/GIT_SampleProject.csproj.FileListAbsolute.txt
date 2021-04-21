@@ -1,0 +1,6 @@
+D:\Ramesh\GIT_SampleProject\GIT_SampleProject\bin\GIT_SampleProject.dll.config
+D:\Ramesh\GIT_SampleProject\GIT_SampleProject\bin\GIT_SampleProject.dll
+D:\Ramesh\GIT_SampleProject\GIT_SampleProject\bin\GIT_SampleProject.pdb
+D:\Ramesh\GIT_SampleProject\GIT_SampleProject\obj\Debug\GIT_SampleProject.csprojResolveAssemblyReference.cache
+D:\Ramesh\GIT_SampleProject\GIT_SampleProject\obj\Debug\GIT_SampleProject.dll
+D:\Ramesh\GIT_SampleProject\GIT_SampleProject\obj\Debug\GIT_SampleProject.pdb
